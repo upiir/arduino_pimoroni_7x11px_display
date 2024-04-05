@@ -1,10 +1,35 @@
 # Arduino UNO with Pimoroni 7x11px LED Matrix Display
 Arduino UNO with Pimoroni 7x11px LED Matrix Display
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/sZZFgSmYJjc**
 
-**WOKWI sketch: XXX**
+**WOKWI sketch: https://wokwi.com/projects/394323585291513857**
 
+Links from the video:
+- Previous video (gear indicator): https://youtu.be/QixtxaAda18
+- Pimoroni 7x11px LED Matrix Display: https://shop.pimoroni.com/products/11x7-led-matrix-breakout?variant=21791690752083
+- Adafruit IS31FL3731 board: https://www.adafruit.com/product/2946
+- Adafruit documentation: https://learn.adafruit.com/i31fl3731-16x9-charliplexed-pwm-led-driver/pinouts
+- Smoothstep function: https://stackoverflow.com/questions/28889210/smoothstep-function
+- Adafruit library: https://github.com/adafruit/Adafruit_IS31FL3731
+- Neopixel canvas: https://wokwi.com/projects/379096458121466881
+- Online Image Converter: https://lvgl.io/tools/imageconverter
+- Breadboard wires: https://s.click.aliexpress.com/e/_Dkbngin
+- Arduino UNO R3: https://s.click.aliexpress.com/e/_AXDw1h
+- Arduino breadboard prototyping shield: https://s.click.aliexpress.com/e/_DlxEfPX
+- NeoPixel starting project: https://wokwi.com/projects/392984672413834241
+
+Related videos with LED Matrix Displays:
+- LED ring light for potentiometer - https://youtu.be/Bot865qmdsM
+- Robot eyes display: https://youtu.be/If-hiuwsQh0
+- Arduino Wood Clock: https://youtu.be/50bVXHYW_9Q
+- Arduino UNO R4 display: https://youtu.be/Qpi0Y5bcvlQ
+- LED matrix badges: https://youtu.be/MRTxTx8bgYg
+- Why are pixels square?: https://youtu.be/oLgUtjyKO6Q
+- Three knob controller: https://youtu.be/e2UNsZPjHkk
+- Really old display: https://youtu.be/PBaL9w5w-2c
+
+_This video is sponsored by PCBway. By using the link, you can get 10 PCBs for free, only paying for shipping, and at the same time, you will support this channel. Thank you, PCBway! https://www.pcbway.com/setinvite.aspx?inviteid=572577_
 
 ![THUMB_pimoroni_7x11px_display](https://github.com/upiir/arduino_pimoroni_7x11px_display/assets/117754156/80ad39ff-bcca-4011-8b1b-c1c73a8ff745)
 
