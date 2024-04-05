@@ -35,7 +35,7 @@ _This video is sponsored by PCBway. By using the link, you can get 10 PCBs for f
 
 
 
-Small Animations:
+Small Animation:
 
 ![pimoroni_7x11px_display](https://github.com/upiir/arduino_pimoroni_7x11px_display/assets/117754156/9b9f4563-bdc7-44b4-80b1-8b1bfeaf5337)
 
